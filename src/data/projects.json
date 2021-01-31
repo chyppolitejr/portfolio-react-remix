@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "projectName": "Smith Family Adventure",
+    "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
+    "github": "https://github.com/chyppolitejr/smith-adventure",
+    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
+    "technologies": "BootStrap, JQuery, Javascript, CSS",
+    "image": "./images/smith-family-adventure.png"
+  },
+  {
+    "id": 2,
+    "projectName": "Weather Dashboard",
+    "deployedApplication": "https://mysterious-reef-08997.herokuapp.com/",
+    "github": "https://github.com/chyppolitejr/weather-dashboard",
+    "details": "This project is simple weather dashboard intended to provide the end-user with a simple way to retrieve weather forecasts using the openweather.org api. The application will store the last 10 cities that were search to make it easy for a person to search the same city again without having to type in the information. The dashboard provides the current weather and the weather for the next five days.",
+    "technologies": "BootStrap, JQuery, Javascript, CSS",
+    "image": "./images/weather-dashboard-screenshot.png"
+  },
+  {
+    "id": 3,
+    "projectName": "Eat Da Burger",
+    "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
+    "github": "https://github.com/chyppolitejr/burger",
+    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
+    "technologies": "BootStrap, JQuery, Javascript, CSS,Express, mySQL, npm, express-handlebars",
+    "image": "./images/eat-da-burger-screenshot.png"
+  },
+  {
+    "id": 4,
+    "projectName": "Smith Family Adventure",
+    "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
+    "github": "https://github.com/chyppolitejr/smith-adventure",
+    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
+    "technologies": "BootStrap, JQuery, Javascript, CSS",
+    "image": "./images/smith-family-adventure.png"
+  },
+  {
+    "id": 5,
+    "projectName": "Smith Family Adventure",
+    "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
+    "github": "https://github.com/chyppolitejr/smith-adventure",
+    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
+    "technologies": "BootStrap, JQuery, Javascript, CSS",
+    "image": "./images/smith-family-adventure.png"
+  },
+  {
+    "id": 6,
+    "projectName": "Smith Family Adventure",
+    "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
+    "github": "https://github.com/chyppolitejr/smith-adventure",
+    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
+    "technologies": "BootStrap, JQuery, Javascript, CSS",
+    "image": "./images/smith-family-adventure.png"
+  }
+]

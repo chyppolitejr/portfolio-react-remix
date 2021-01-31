@@ -7,24 +7,18 @@ import Projects from "./containers/Projects.js";
 import Contact from "./containers/Contact";
 import Footer from "./components/Footer";
 
+
 function App() {
   return (
     <>
       <Router>
-        <header>
-          {" "}
-          <Navbar />{" "}
-        </header>
-        <main>
+          <Navbar />
           <Route exact path="/" component={Home} />
           <Route exact path="/about" component={About} />
           <Route exact path="/projects" component={Projects} />
-          <Route path="/contact" component={Contact} />
-        </main>
+          <Route exact path="/contact" component={Contact} />
       </Router>
-      <footer>
         <Footer />
-      </footer>
     </>
   );
 }

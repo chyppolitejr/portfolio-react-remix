@@ -1,10 +1,13 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+// import {TabContent,TabPane,Nav,NavItem,NavLink} from 'reactstrap';
+// import classnames from 'classnames';
 
 const Navbar = () => {
   const location = useLocation();
 
   return (
+    <nav>
       <ul className="nav nav-tabs">
         <li className="nav-item">
           <Link
@@ -47,6 +50,7 @@ const Navbar = () => {
           </Link>
         </li>
       </ul>
+    </nav>
   );
 };
 
