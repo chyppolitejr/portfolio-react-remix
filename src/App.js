@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./containers/Home";
 import About from "./containers/About";
@@ -17,11 +17,11 @@ function App() {
           <Route exact path="/about" component={About} />
           <Route exact path="/projects" component={Projects} />
           <Route exact path="/contact" component={Contact} />
-          <Switch>
+          {/* <Switch>
   17              <Route exact path="/portfolio-react-remix" component={Home} />
 
   21              <Route component={Home} />
-  22:           </Switch>
+  22:           </Switch> */}
       </Router>
         <Footer />
     </>
