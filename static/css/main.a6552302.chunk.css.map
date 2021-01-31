@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,MACE,mBAEF,CAOA,gBACE,gGACF","file":"main.a6552302.chunk.css","sourcesContent":["#root {\n  padding-bottom: 75px;\n\n}\n\n\nbody {\n  background-image: url(\"./images/pexels-noelle-otto-906018.jpg\");\n}\n\n.jumbotron {\n  background-image: url(\"./images/pexels-noelle-otto-906018.jpg\");\n}\n\n"]}

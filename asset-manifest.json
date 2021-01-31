@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-react-remix/static/css/main.a6552302.chunk.css",
-    "main.js": "/portfolio-react-remix/static/js/main.97e21f79.chunk.js",
-    "main.js.map": "/portfolio-react-remix/static/js/main.97e21f79.chunk.js.map",
+    "main.css": "/portfolio-react-remix/static/css/main.afd66364.chunk.css",
+    "main.js": "/portfolio-react-remix/static/js/main.36847632.chunk.js",
+    "main.js.map": "/portfolio-react-remix/static/js/main.36847632.chunk.js.map",
     "runtime-main.js": "/portfolio-react-remix/static/js/runtime-main.e06adb2c.js",
     "runtime-main.js.map": "/portfolio-react-remix/static/js/runtime-main.e06adb2c.js.map",
     "static/css/2.150d169a.chunk.css": "/portfolio-react-remix/static/css/2.150d169a.chunk.css",
-    "static/js/2.f5559745.chunk.js": "/portfolio-react-remix/static/js/2.f5559745.chunk.js",
-    "static/js/2.f5559745.chunk.js.map": "/portfolio-react-remix/static/js/2.f5559745.chunk.js.map",
+    "static/js/2.7d40b2a5.chunk.js": "/portfolio-react-remix/static/js/2.7d40b2a5.chunk.js",
+    "static/js/2.7d40b2a5.chunk.js.map": "/portfolio-react-remix/static/js/2.7d40b2a5.chunk.js.map",
     "static/js/3.206d74ff.chunk.js": "/portfolio-react-remix/static/js/3.206d74ff.chunk.js",
     "static/js/3.206d74ff.chunk.js.map": "/portfolio-react-remix/static/js/3.206d74ff.chunk.js.map",
     "index.html": "/portfolio-react-remix/index.html",
     "static/css/2.150d169a.chunk.css.map": "/portfolio-react-remix/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.a6552302.chunk.css.map": "/portfolio-react-remix/static/css/main.a6552302.chunk.css.map",
-    "static/js/2.f5559745.chunk.js.LICENSE.txt": "/portfolio-react-remix/static/js/2.f5559745.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/portfolio-react-remix/static/media/pexels-noelle-otto-906018.c45e61c4.jpg"
+    "static/css/main.afd66364.chunk.css.map": "/portfolio-react-remix/static/css/main.afd66364.chunk.css.map",
+    "static/js/2.7d40b2a5.chunk.js.LICENSE.txt": "/portfolio-react-remix/static/js/2.7d40b2a5.chunk.js.LICENSE.txt",
+    "static/media/Track-finder-screenshot.png": "/portfolio-react-remix/static/media/Track-finder-screenshot.3b04bd63.png",
+    "static/media/styles.css": "/portfolio-react-remix/static/media/pexels-noelle-otto-906018.b7059c7b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e06adb2c.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.f5559745.chunk.js",
-    "static/css/main.a6552302.chunk.css",
-    "static/js/main.97e21f79.chunk.js"
+    "static/js/2.7d40b2a5.chunk.js",
+    "static/css/main.afd66364.chunk.css",
+    "static/js/main.36847632.chunk.js"
   ]
 }
