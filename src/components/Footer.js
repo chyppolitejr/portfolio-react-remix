@@ -16,7 +16,7 @@ const Footer = () => {
        <a href="tel:954-471-3652"> 
        <i className="fas fa-phone fa-3x" style={{ paddingRight: 10 }}></i>
        </a>
-       <a href="Chyppolite-Resume.pdf"> 
+       <a href="/"> 
        <i className="far fa-file-pdf fa-3x" style={{ paddingRight: 10 }}></i>
        </a>
       </div>
