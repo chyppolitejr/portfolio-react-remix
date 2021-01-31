@@ -4,53 +4,53 @@
     "projectName": "Smith Family Adventure",
     "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
     "github": "https://github.com/chyppolitejr/smith-adventure",
-    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
+    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim.",
     "technologies": "BootStrap, JQuery, Javascript, CSS",
-    "image": "./images/smith-family-adventure.png"
+    "image": "../images/smith-family-adventure.png"
   },
   {
     "id": 2,
     "projectName": "Weather Dashboard",
     "deployedApplication": "https://mysterious-reef-08997.herokuapp.com/",
     "github": "https://github.com/chyppolitejr/weather-dashboard",
-    "details": "This project is simple weather dashboard intended to provide the end-user with a simple way to retrieve weather forecasts using the openweather.org api. The application will store the last 10 cities that were search to make it easy for a person to search the same city again without having to type in the information. The dashboard provides the current weather and the weather for the next five days.",
+    "details": "Simple weather dashboard",
     "technologies": "BootStrap, JQuery, Javascript, CSS",
-    "image": "./images/weather-dashboard-screenshot.png"
+    "image": "../images/weather-dashboard-screenshot.png"
   },
   {
     "id": 3,
     "projectName": "Eat Da Burger",
     "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
     "github": "https://github.com/chyppolitejr/burger",
-    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
+    "details": "Simple Web Application that allows you enter burgers names then devour them with a button click",
     "technologies": "BootStrap, JQuery, Javascript, CSS,Express, mySQL, npm, express-handlebars",
-    "image": "./images/eat-da-burger-screenshot.png"
+    "image": "../images/eat-da-burger-screenshot.png"
   },
   {
     "id": 4,
-    "projectName": "Smith Family Adventure",
-    "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
-    "github": "https://github.com/chyppolitejr/smith-adventure",
-    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
-    "technologies": "BootStrap, JQuery, Javascript, CSS",
-    "image": "./images/smith-family-adventure.png"
+    "projectName": "Track Finder",
+    "deployedApplication": "https://polar-castle-76740.herokuapp.com/",
+    "github": "https://github.com/chyppolitejr/Track-Finder-App",
+    "details": "A full CRUD web app used for finding running/walking tracks in your area.",
+    "technologies": "Bulma, JQuery, Javascript, CSS, Express,mySQL, npm, express-handlebars",
+    "image": "../images/track-finder-screenshot.png"
   },
   {
     "id": 5,
-    "projectName": "Smith Family Adventure",
-    "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
-    "github": "https://github.com/chyppolitejr/smith-adventure",
-    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
-    "technologies": "BootStrap, JQuery, Javascript, CSS",
-    "image": "./images/smith-family-adventure.png"
+    "projectName": "Fitness Tracker",
+    "deployedApplication": "https://arcane-gorge-03230.herokuapp.com/",
+    "github": "https://github.com/chyppolitejr/fitness-tracker",
+    "details": "A web app for tracking your workouts",
+    "technologies": "nodejs, npm, mongoose mongodb",
+    "image": "../images/fitnessTrackDash.png"
   },
   {
     "id": 6,
-    "projectName": "Smith Family Adventure",
-    "deployedApplication": "https://chyppolitejr.github.io/smith-adventure/",
-    "github": "https://github.com/chyppolitejr/smith-adventure",
-    "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim. The end-user navigates from world to world and is presented with random character cards. After the user clicks on a card they are presented with bad advice",
-    "technologies": "BootStrap, JQuery, Javascript, CSS",
-    "image": "./images/smith-family-adventure.png"
+    "projectName": "Budget Tracker",
+    "deployedApplication": "https://floating-citadel-65540.herokuapp.com ",
+    "github": "https://github.com/chyppolitejr/budget-tracker",
+    "details": "An application for tracking your income and expenses with visualizations",
+    "technologies": "nodejs, npm, mongodb, express, morgan and compression",
+    "image": "../images/budget-tracker-screen.png"
   }
 ]

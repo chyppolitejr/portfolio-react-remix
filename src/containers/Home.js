@@ -4,7 +4,7 @@ import { Jumbotron, Container } from "reactstrap";
 const Home = () => {
   return (
     <main>
-      <div className="jumbotron jumbotron-fluid mt-5">
+      <div className="jumbotron jumbotron-fluid mt-5 bg-white"> 
         <div className="container">
           <h1 className="display-4">My Portfolio Project</h1>
           <p className="lead font-italic">

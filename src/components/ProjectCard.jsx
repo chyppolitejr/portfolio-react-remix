@@ -12,6 +12,10 @@ const ProjectCard = () => {
         <div className="card-body">
             <p className="card-title">{project.projectName}</p>
           <small className="card-text"> {project.details} </small>
+          <p className="card-text">
+          <a href={project.deployedApplication}></a>
+          </p>
+         
         </div>
       </div>
       </div>
