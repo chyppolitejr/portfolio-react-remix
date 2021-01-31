@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-remix/static/css/main.a6552302.chunk.css",
+    "main.js": "/portfolio-react-remix/static/js/main.68aea13b.chunk.js",
+    "main.js.map": "/portfolio-react-remix/static/js/main.68aea13b.chunk.js.map",
+    "runtime-main.js": "/portfolio-react-remix/static/js/runtime-main.12f3d690.js",
+    "runtime-main.js.map": "/portfolio-react-remix/static/js/runtime-main.12f3d690.js.map",
+    "static/css/2.150d169a.chunk.css": "/portfolio-react-remix/static/css/2.150d169a.chunk.css",
+    "static/js/2.f5559745.chunk.js": "/portfolio-react-remix/static/js/2.f5559745.chunk.js",
+    "static/js/2.f5559745.chunk.js.map": "/portfolio-react-remix/static/js/2.f5559745.chunk.js.map",
+    "static/js/3.949c76cf.chunk.js": "/portfolio-react-remix/static/js/3.949c76cf.chunk.js",
+    "static/js/3.949c76cf.chunk.js.map": "/portfolio-react-remix/static/js/3.949c76cf.chunk.js.map",
+    "index.html": "/portfolio-react-remix/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/portfolio-react-remix/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.a6552302.chunk.css.map": "/portfolio-react-remix/static/css/main.a6552302.chunk.css.map",
+    "static/js/2.f5559745.chunk.js.LICENSE.txt": "/portfolio-react-remix/static/js/2.f5559745.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/portfolio-react-remix/static/media/pexels-noelle-otto-906018.c45e61c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12f3d690.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f5559745.chunk.js",
+    "static/css/main.a6552302.chunk.css",
+    "static/js/main.68aea13b.chunk.js"
+  ]
+}
