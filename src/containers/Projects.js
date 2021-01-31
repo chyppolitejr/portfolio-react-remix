@@ -1,12 +1,12 @@
 import React from 'react';
 import ProjectCard from '../components/ProjectCard'
-import Carousel from '../components/Carousel'
+import ProjectCardWide from '../components/ProjectCardWide'
 
 const Projects = () => {
     return (
         <main className="container">
-                <ProjectCard />
-                {/* <Carousel /> */}
+                {/* <ProjectCard /> */}
+                <ProjectCardWide />
            
         </main>
     );
