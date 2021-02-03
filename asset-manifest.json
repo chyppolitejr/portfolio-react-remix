@@ -1,27 +1,32 @@
 {
   "files": {
     "main.css": "/portfolio-react-remix/static/css/main.afd66364.chunk.css",
-    "main.js": "/portfolio-react-remix/static/js/main.b43b9396.chunk.js",
-    "main.js.map": "/portfolio-react-remix/static/js/main.b43b9396.chunk.js.map",
-    "runtime-main.js": "/portfolio-react-remix/static/js/runtime-main.e06adb2c.js",
-    "runtime-main.js.map": "/portfolio-react-remix/static/js/runtime-main.e06adb2c.js.map",
+    "main.js": "/portfolio-react-remix/static/js/main.8478166f.chunk.js",
+    "main.js.map": "/portfolio-react-remix/static/js/main.8478166f.chunk.js.map",
+    "runtime-main.js": "/portfolio-react-remix/static/js/runtime-main.df91bedb.js",
+    "runtime-main.js.map": "/portfolio-react-remix/static/js/runtime-main.df91bedb.js.map",
     "static/css/2.150d169a.chunk.css": "/portfolio-react-remix/static/css/2.150d169a.chunk.css",
-    "static/js/2.7d40b2a5.chunk.js": "/portfolio-react-remix/static/js/2.7d40b2a5.chunk.js",
-    "static/js/2.7d40b2a5.chunk.js.map": "/portfolio-react-remix/static/js/2.7d40b2a5.chunk.js.map",
-    "static/js/3.206d74ff.chunk.js": "/portfolio-react-remix/static/js/3.206d74ff.chunk.js",
-    "static/js/3.206d74ff.chunk.js.map": "/portfolio-react-remix/static/js/3.206d74ff.chunk.js.map",
+    "static/js/2.1a8cf737.chunk.js": "/portfolio-react-remix/static/js/2.1a8cf737.chunk.js",
+    "static/js/2.1a8cf737.chunk.js.map": "/portfolio-react-remix/static/js/2.1a8cf737.chunk.js.map",
+    "static/js/3.29d32510.chunk.js": "/portfolio-react-remix/static/js/3.29d32510.chunk.js",
+    "static/js/3.29d32510.chunk.js.map": "/portfolio-react-remix/static/js/3.29d32510.chunk.js.map",
     "index.html": "/portfolio-react-remix/index.html",
     "static/css/2.150d169a.chunk.css.map": "/portfolio-react-remix/static/css/2.150d169a.chunk.css.map",
     "static/css/main.afd66364.chunk.css.map": "/portfolio-react-remix/static/css/main.afd66364.chunk.css.map",
-    "static/js/2.7d40b2a5.chunk.js.LICENSE.txt": "/portfolio-react-remix/static/js/2.7d40b2a5.chunk.js.LICENSE.txt",
+    "static/js/2.1a8cf737.chunk.js.LICENSE.txt": "/portfolio-react-remix/static/js/2.1a8cf737.chunk.js.LICENSE.txt",
     "static/media/Track-finder-screenshot.png": "/portfolio-react-remix/static/media/Track-finder-screenshot.3b04bd63.png",
-    "static/media/styles.css": "/portfolio-react-remix/static/media/pexels-noelle-otto-906018.b7059c7b.jpg"
+    "static/media/budget-tracker-screen.png": "/portfolio-react-remix/static/media/budget-tracker-screen.1463fafb.png",
+    "static/media/eat-da-burger-screenshot.png": "/portfolio-react-remix/static/media/eat-da-burger-screenshot.5f8dd6ac.png",
+    "static/media/fitnessTrackDash.png": "/portfolio-react-remix/static/media/fitnessTrackDash.eb857508.png",
+    "static/media/styles.css": "/portfolio-react-remix/static/media/pexels-noelle-otto-906018.b7059c7b.jpg",
+    "static/media/smith-family-adventure.png": "/portfolio-react-remix/static/media/smith-family-adventure.b66a9dc0.png",
+    "static/media/weather-dashboard-screenshot.png": "/portfolio-react-remix/static/media/weather-dashboard-screenshot.447a5030.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e06adb2c.js",
+    "static/js/runtime-main.df91bedb.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.7d40b2a5.chunk.js",
+    "static/js/2.1a8cf737.chunk.js",
     "static/css/main.afd66364.chunk.css",
-    "static/js/main.b43b9396.chunk.js"
+    "static/js/main.8478166f.chunk.js"
   ]
 }
