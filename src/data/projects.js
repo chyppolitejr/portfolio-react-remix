@@ -9,7 +9,7 @@ const  projects =
     "github": "https://github.com/chyppolitejr/smith-adventure",
     "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim.",
     "technologies": "BootStrap, JQuery, Javascript, CSS",
-    "image": require("../images/smith-family-adventure.png")
+    "image": "../images/smith-family-adventure.png"
   },
   {
     "id": 2,
