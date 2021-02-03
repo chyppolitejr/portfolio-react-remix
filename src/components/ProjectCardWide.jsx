@@ -1,12 +1,13 @@
 import React from "react";
 import projects from "../data/projects"
 
+
 const ProjectCardWide = () => {
   return (
     <div>
         {projects.map(project => (
-            <div className="card mb-5 mt-5">
-            <img src={process.env.PUBLIC_URL + project.image} className="card-img-top" alt={project.projectName} />
+            <div key={project.id} className="card mb-5 mt-5">
+            <img src={project.image} className="card-img-top" alt={project.projectName} />
             <div className="card-body">
               <h5 className="card-title">{project.projectName}</h5>
               <p className="card-text">
@@ -25,5 +26,7 @@ const ProjectCardWide = () => {
     </div>
   );
 };
+
+console.log(process.env.PUBLIC_URL+ "/images/fitnessTrackDash.png");
 
 export default ProjectCardWide;

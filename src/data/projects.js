@@ -9,7 +9,7 @@ const  projects =
     "github": "https://github.com/chyppolitejr/smith-adventure",
     "details": "An interactive Game based on characters from the Rick and Morty Cartoon on Adult Swim.",
     "technologies": "BootStrap, JQuery, Javascript, CSS",
-    "image": "/images/smith-family-adventure.png"
+    "image": require("../images/smith-family-adventure.png")
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@ const  projects =
     "github": "https://github.com/chyppolitejr/weather-dashboard",
     "details": "Simple weather dashboard",
     "technologies": "BootStrap, JQuery, Javascript, CSS",
-    "image": "/images/weather-dashboard-screenshot.png"
+    "image": require("../images/weather-dashboard-screenshot.png")
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@ const  projects =
     "github": "https://github.com/chyppolitejr/burger",
     "details": "Simple Web Application that allows you enter burgers names then devour them with a button click",
     "technologies": "BootStrap, JQuery, Javascript, CSS,Express, mySQL, npm, express-handlebars",
-    "image": "../images/eat-da-burger-screenshot.png"
+    "image": require("../images/eat-da-burger-screenshot.png")
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@ const  projects =
     "github": "https://github.com/chyppolitejr/fitness-tracker",
     "details": "A web app for tracking your workouts",
     "technologies": "nodejs, npm, mongoose mongodb",
-    "image": "/images/fitnessTrackDash.png"
+    "image": require("../images/fitnessTrackDash.png")
   },
   {
     "id": 6,
@@ -54,7 +54,7 @@ const  projects =
     "github": "https://github.com/chyppolitejr/budget-tracker",
     "details": "An application for tracking your income and expenses with visualizations",
     "technologies": "nodejs, npm, mongodb, express, morgan and compression",
-    "image": "/images/budget-tracker-screen.png"
+    "image": require("../images/budget-tracker-screen.png")
   }
 ]
 
