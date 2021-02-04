@@ -1,5 +1,4 @@
 import React from 'react';
-// import ProjectCardWide from '../components/ProjectCardWide'
 import ProjectCard1 from '../components/ProjectCard1'
 import ProjectCard2 from '../components/ProjectCard2'
 import ProjectCard3 from '../components/ProjectCard3'
